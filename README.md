@@ -21,12 +21,6 @@
 3. 点击 "Add New..." → "Project"
 4. 上传ZIP文件或解压后上传文件夹
 
-## 📁 文件说明
-
-- `epc-qr-generator-static.zip` - 静态文件部署包（推荐用于快速部署）
-- `epc-qr-generator-deployment.tar.gz` - 完整项目包（包含源码和文档）
-- `DEPLOYMENT_GUIDE.md` - 详细部署指南
-
 ## ✅ 部署后验证
 
 部署完成后，访问您的网站并测试以下功能：
